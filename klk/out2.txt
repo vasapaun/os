@@ -1,0 +1,6 @@
+Broj prsistemija udapredmetod pocOperativnig fajlakul rec koja sledi je rec koju treba upisati
+u drugi fajl pocevsi od pozicije zadate brojem. Dakle, rec Milivoje treba upisati u drugi fajl
+od pozicije 7 u tom fajlu, rec dzivdzan pocevsi od 213 itd.
+Ukoliko jedan ili oba fajla ne postoje ili broj argumenata komadne linije nije
+odgovarajuci, zavrsiti program sa exit code-om 1.
+
